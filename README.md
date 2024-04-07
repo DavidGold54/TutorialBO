@@ -1,1 +1,1 @@
-# BayesianOptimization
+# TutorialBO
